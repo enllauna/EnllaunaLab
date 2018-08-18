@@ -1,0 +1,11 @@
+
+## python 
+*.pyc
+
+## EnllaunaLab folders
+experiments/*
+protobufs/*
+tensorboard/*
+
+## Pycharm project folders
+.idea*
